@@ -1,2 +1,3 @@
-# web_jcmb
-this is web_demo
+#hello ，大家好，我是James 
+
+这里我会分享一些，在项目中用到的一些技术，以及一些浅谈的看法
