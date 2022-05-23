@@ -2,7 +2,7 @@
  * @Author: liboya
  * @Date: 2022-05-19 15:14:01
  * @LastEditors: 李博雅 1273319367@qq.com
- * @LastEditTime: 2022-05-23 21:05:29
+ * @LastEditTime: 2022-05-23 21:07:11
  * @FilePath: /Knowledge-Map/README.md
  * @Description: 
  * 
@@ -17,14 +17,14 @@
 * [JS总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/JS/js.md) 持续更新中。。。
 
 * 整理中： [HTML总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/HTML/html.md)
-* 整理中： [CSS总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/JS/js.md)
+* 整理中： [CSS总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/CSS/css.md)
 * 整理中： [React总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/React/react.md)
 * 整理中： [Vue总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/Vue/vue.md)
-* 整理中： [TS总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/TS/te.md)
+* 整理中： [TS总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/TS/ts.md)
 * 整理中： [Node总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/Node/node.md)
 * 整理中： [Webpack总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/Webpack/webpack.md)
 * 整理中： [Vite总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/Vite/vite.md)
 * 整理中： [Uni-App总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/Uni-App/uniapp.md)
 * 整理中： [Mysql总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/Mysql/mysql.md)
-* 整理中： [MongoDB总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/MongoDB/mogno.md)
+* 整理中： [MongoDB总结](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/MongoDB/mongo.md)
 * 整理中： [使用组件库](https://github.com/JamesLi-dev/Knowledge-Map/blob/master/组件库/list.md)
