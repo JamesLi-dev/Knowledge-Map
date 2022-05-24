@@ -4,7 +4,7 @@
 
 - [我的 TS](#%E6%88%91%E7%9A%84-ts)
   - [常用 TS 知识点](#%E5%B8%B8%E7%94%A8-ts-%E7%9F%A5%E8%AF%86%E7%82%B9)
-    - [1、泛型](#1%E6%B3%9B%E5%9E%8B)
+    - [泛型](#%E6%B3%9B%E5%9E%8B)
     - [Identities 接口](#identities-%E6%8E%A5%E5%8F%A3)
     - [泛型类](#%E6%B3%9B%E5%9E%8B%E7%B1%BB)
     - [泛型约束](#%E6%B3%9B%E5%9E%8B%E7%BA%A6%E6%9D%9F)
@@ -35,7 +35,7 @@
 
 ### 常用 TS 知识点
 
-#### 1、泛型
+#### 泛型
 
 ```typescript
 function identity <T>(value: T) : T {
