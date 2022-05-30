@@ -1,12 +1,12 @@
 <!--
- * @Author: Lby
+ * @Author:  
  * @Date: 2022-05-19 15:33:00
- * @LastEditors: lby
+ * @LastEditors:  
  * @LastEditTime: 2022-05-30 21:07:36
  * @FilePath: /Knowledge-Map/Node/node.md
  * @Description: 
  * 
- * Copyright (c) 2022 by lby, All Rights Reserved. 
+ * Copyright (c) 2022 by  , All Rights Reserved. 
 -->
 
 ## 我的 Node 

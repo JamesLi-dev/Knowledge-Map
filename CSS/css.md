@@ -1,12 +1,4 @@
-<!--
- * @Author: Lby
- * @Date: 2022-05-30 21:01:45
- * @LastEditors: lby
- * @LastEditTime: 2022-05-30 21:07:04
- * @FilePath: /Knowledge-Map/CSS/css.md
- * @Description: 
- * 
- * Copyright (c) 2022 by lby, All Rights Reserved. 
+
 -->
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
