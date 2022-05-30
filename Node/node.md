@@ -1,13 +1,14 @@
 <!--
- * @Author: liboya
+ * @Author: Lby
  * @Date: 2022-05-19 15:33:00
- * @LastEditors: 李博雅 1273319367@qq.com
- * @LastEditTime: 2022-05-23 21:04:08
+ * @LastEditors: lby
+ * @LastEditTime: 2022-05-30 21:07:36
  * @FilePath: /Knowledge-Map/Node/node.md
  * @Description: 
  * 
- * Copyright (c) 2022 by 李博雅 1273319367@qq.com, All Rights Reserved. 
+ * Copyright (c) 2022 by lby, All Rights Reserved. 
 -->
+
 ## 我的 Node 
 
 > 持续更新中……

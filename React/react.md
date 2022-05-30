@@ -1,13 +1,14 @@
 <!--
- * @Author: liboya
+ * @Author: Lby
  * @Date: 2022-05-19 15:33:07
- * @LastEditors: 李博雅 1273319367@qq.com
- * @LastEditTime: 2022-05-23 21:04:18
+ * @LastEditors: lby
+ * @LastEditTime: 2022-05-30 21:07:45
  * @FilePath: /Knowledge-Map/React/react.md
  * @Description: 
  * 
- * Copyright (c) 2022 by 李博雅 1273319367@qq.com, All Rights Reserved. 
+ * Copyright (c) 2022 by lby, All Rights Reserved. 
 -->
+
 ## 我的 React
 
 > 持续更新中……
